@@ -27,6 +27,14 @@
 
 This data analysis project aims to provide insight into a company's employee attrition over a particular period. By analyzing the employee attrition data, I seek to identify trends and make insightful recommendations.
 
+![Demographics](https://github.com/user-attachments/assets/5cda264c-c67c-4f8e-b1c9-5e6d042c7d7b)
+![Turnover analysis 1](https://github.com/user-attachments/assets/186ed10c-2b59-4d1d-91dc-ae0606986e6a)
+![Turnover analysis 2](https://github.com/user-attachments/assets/ecb87c21-8fac-428c-b7b9-26d5a02c780e)
+![Employees wellness](https://github.com/user-attachments/assets/4c6a76e6-5714-4b75-953a-c83b979e542c)
+
+
+
+
 
 ### Data Source
 
