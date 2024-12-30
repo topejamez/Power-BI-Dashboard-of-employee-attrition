@@ -2,23 +2,23 @@
 
 ## Table of Content
 
-- [Project Overview](project_overview#)
+- [Project Overview](#project-overview)
 
-- [Data Source](data_source#)
+- [Data Source](#data-source)
 
-- [Tools](tools#)
+- [Tools](#tools)
 
-- [Data Cleaning/Preparation](data_cleaning/preparation#)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
 
-- [Exploratory Data Analysis](exploratory_data_analysis#)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Data Analysis](data_analysis#)
+- [Data Analysis](#data-analysis)
 
-- [Results/Findings](results/findings#)
+- [Results/Findings](#resultsfindings)
 
-- [Recommendations](recommendations#)
+- [Recommendations](#recommendations)
 
-- [References](references#)
+- [References](#references)
 
  
 
