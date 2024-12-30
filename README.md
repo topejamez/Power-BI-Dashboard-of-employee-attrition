@@ -26,15 +26,10 @@
 ### Project Overview
 
 This data analysis project aims to provide insight into a company's employee attrition over a particular period. By analyzing the employee attrition data, I seek to identify trends and make insightful recommendations.
-
-![Demographics](https://github.com/user-attachments/assets/5cda264c-c67c-4f8e-b1c9-5e6d042c7d7b)
-![Turnover analysis 1](https://github.com/user-attachments/assets/186ed10c-2b59-4d1d-91dc-ae0606986e6a)
-![Turnover analysis 2](https://github.com/user-attachments/assets/ecb87c21-8fac-428c-b7b9-26d5a02c780e)
-![Employees wellness](https://github.com/user-attachments/assets/4c6a76e6-5714-4b75-953a-c83b979e542c)
-
-
-
-
+![Demographics](https://github.com/user-attachments/assets/d0475063-ea30-47f2-bf18-2f4c0127c555)
+![Employees wellness](https://github.com/user-attachments/assets/5d066751-1cc3-470a-a0a8-3b778b2a9a45)
+![Turnover analysis 1](https://github.com/user-attachments/assets/cc9078c8-b581-4e51-a5e5-be56c969f4d9)
+![Turnover analysis 2](https://github.com/user-attachments/assets/fafd2414-27b6-4cc8-8839-6f8e3c505918)
 
 ### Data Source
 
@@ -104,17 +99,15 @@ The analysis results are summarized as follows
 ### Recommendations
 
      Based on the analysis, I recommend the following actions:
-   . More attention should be given to employees with life sciences education background as they have the highest number of attrition
-   . More attention should also be given to employees between between ages of 30 and 40 by checking their job satisfaction level on a time interval
-   . Ensure that the single males and females in the company are enjoying a good work environment
-   . Special attention should be given to employees in sales and maybe introduce bonuses for higher sales as this will increase performance rating and reduce attrition
-   . Entry-level employees and employees in less than 1 year in their current job role should be a lot of support with their tasks as it will help them stay much longer
-   . Employees should not be made to have overtime or be compensated for any necessary overtime
-   . Generally make the work environment satisfactory for all employees as very dissatisfied employees have the highest attrition
-
+  1. More attention should be given to employees with life sciences education background as they have the highest number of attrition
+  2. More attention should also be given to employees between ages of 30 and 40 by checking their job satisfaction level on a time interval
+  3. Ensure that the single males and females in the company are enjoying a good work environment
+  4. Special attention should be given to employees in sales and maybe introduce bonuses for higher sales as this will increase performance rating and reduce attrition
+  5. Entry-level employees and employees in less than 1 year in their current job role should be a lot of support with their tasks as it will help them stay much longer
+  6. Employees should not be made to have overtime or be compensated for any necessary overtime
+  7. Generally make the work environment satisfactory for all employees as very dissatisfied employees have the highest attrition
 
 ### References
-
 1. [ChatGPT](https://chat.openai.com)
 
 
