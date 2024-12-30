@@ -114,7 +114,9 @@ The analysis results are summarized as follows
 
 
 ### References
-1. [ChatGPT](ChatGPT.com)
+
+1. [ChatGPT](https://chat.openai.com)
+
 
 
 
